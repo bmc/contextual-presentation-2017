@@ -1,0 +1,26 @@
+{
+  "name": "Spark Streaming presentation",
+  "version": "1.0.0",
+  "authors": [
+    "Brian Clapper <bmc@ardentex.com>"
+  ],
+  "description": "Intro to Spark Streaming",
+  "main": "pres.html",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "BSD New",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "highlightjs": "~9.1.0",
+    "jquery": "~2.1.4",
+    "reveal.js": "~3.2.0",
+    "lodash": "^4.6.0"
+  }
+}

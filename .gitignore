@@ -1,0 +1,7 @@
+presentation/bower_components
+/dist
+/tmp
+/.idea
+*.iml
+*.tmp
+.DS_Store

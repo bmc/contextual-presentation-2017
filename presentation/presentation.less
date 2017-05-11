@@ -1,0 +1,320 @@
+// Reveal.js local overrides.
+//
+// NOTE: !important is, regrettably, necessary to override all the !important uses in the
+// reveal.js stylesheets.
+
+// Variables
+
+@code-font-size: 54px;
+@code-font-size-small: 14px;
+@font-size: 78px;
+@footer-font-size: 20px;
+@font-weight: 300;
+@font-family: "Source Sans Pro", sans-serif;
+@header-font-family: "Newslab", serif;
+@monospace-font-family: Consolas, Menlo, monospace;
+
+// Coupled to presentation.js
+// -----------------------------
+@revealWidth: 2560px;
+@revealHeight: 1600px;
+// -----------------------------
+
+@svgWidth: @revealWidth * 0.95;
+@svgHeight: @revealHeight * 0.95;
+
+// Rules
+
+.no-footer {
+  #footer {
+    display: none;
+  }
+}
+
+.no-slide-number {
+  .slide-number {
+    display: none !important;
+  }
+}
+
+html {
+
+
+  &.title-slide {
+    .no-footer;
+    .no-slide-number;
+
+    section {
+      .title {
+        background-color: rbga(255, 255, 255, 60%) !important;
+        padding: 30px;
+        text-align: center;
+
+        h1, h2, h3 {
+          color: white !important;
+          vertical-align: bottom;
+          text-align: center !important;
+          font-weight: normal !important;
+        }
+
+        p {
+          color: white !important;
+          padding-top: 50px;
+          text-align: center;
+        }
+      }
+    }
+  }
+}
+
+body {
+  font-size: @font-size !important;
+  font-family: @font-family;
+  font-weight: @font-weight;
+}
+
+// See https://css-tricks.com/scale-svg/
+.svg-image {
+  position: relative;
+  height: @svgHeight !important;
+  width: @svgWidth !important;
+  padding: 0;
+  padding-bottom: 100%;
+  margin-top: 0 !important;
+
+  svg {
+    //width: @svgWidth !important;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+  }
+}
+
+.speaker-controls-notes {
+  .value {
+    font-size: @font-size / 4 !important;
+  }
+}
+
+.scaladoc {
+  margin-top: 100px !important;
+  background-color: #fbffe4 !important;
+  border: 1px solid #999 !important;
+  border-radius: 10px 10px 10px 10px !important;
+  padding: 40px !important;
+
+  .scaladoc-chunk {
+
+    .function {
+      font-size: @font-size * 0.75 !important;
+      font-family: @monospace-font-family;
+      text-align: left !important;
+      width: 100% !important;
+
+      .name {
+        color: blue;
+      }
+    }
+    .description {
+      font-size: @font-size * 0.75 !important;
+      margin-left: 100px !important;
+      text-align: left !important;
+      width: 100% !important;
+    }
+  }
+}
+.header-common {
+  font-family: @header-font-family !important;
+  text-transform: none !important;
+  margin-bottom: 50px !important;
+}
+
+h1 {
+  .header-common;
+  font-size: @font-size + 40px !important;
+}
+
+h2 {
+  .header-common;
+  font-size: @font-size + 15px !important;
+}
+
+.h3 {
+  .header-common;
+  font-size: @font-size + 5px !important;
+}
+
+section {
+  line-height: 130% !important;
+  font-size: @font-size !important;
+}
+
+#footer {
+  position: absolute;
+  left: 0px;
+  bottom: 10px;
+  height: 75px;
+  width: 100%;
+  font-size: @footer-font-size;
+
+  .databricks {
+    font-family: @header-font-family;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+  }
+
+  .nescala-logo {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+  }
+}
+
+.slide-number {
+  font-size: @footer-font-size !important;
+}
+
+.logo {
+  width: 100px;
+}
+
+img {
+  border: none !important;
+  background-color: transparent !important;
+  vertical-align: text-bottom;
+}
+
+p {
+  text-align: left;
+  font-size: @font-size !important;
+
+  &.attribution {
+    font-size: @font-size * 0.5 !important;
+    position: absolute;
+    bottom: 300px;
+    right: 0;
+    //float: right;
+    font-style: italic;
+  }
+
+  code.indented {
+    padding-left: 2em !important;
+  }
+}
+
+ul {
+  margin-left: 20px !important;
+
+  li {
+    font-size: @font-size !important;
+    line-height: 130% !important;
+
+    ul {
+      li {
+        margin-left: 40px !important;
+      }
+    }
+  }
+}
+
+p.centered {
+  text-align: center;
+}
+
+.logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  img {
+    height: 60px !important;
+    border: 0;
+  }
+}
+
+ul {
+  ul {
+    li {
+      font-size: smaller !important;
+    }
+  }
+}
+
+&.right {
+  position: absolute;
+  top: 250px;
+  right: 0;
+}
+
+&.left {
+  position: absolute;
+  top:  100px;
+  left: 100px;
+}
+
+.sidebar {
+  font-size: 14px !important;
+}
+
+.big-vertical-separation {
+  margin-top: 300px !important;
+}
+
+blockquote {
+  border-left: 20px solid #ccc !important;
+  padding-left: 30px !important;
+  color: #555;
+  text-align: left;
+  font-style: normal !important;
+  font-size: @font-size - 15px !important;
+  line-height: 120% !important;
+  margin-top: 30px !important;
+}
+
+.emphasis {
+  color: red !important;
+}
+
+div.code {
+  margin-top: 60px !important;
+  margin-bottom: 60px !important;
+}
+
+.reveal {
+  pre {
+    border: 1px solid transparent !important;
+    //background-color: #3f3f3f;
+    width: 100% !important;
+    height: auto !important;
+    box-shadow: 0 0 0 0 !important;
+    background-color: #1d1f21;
+
+    code {
+      padding-left: 30px !important;
+      padding-right: 30px !important;
+      padding-bottom: 0 !important;
+      padding-top: 0 !important;
+      font-family: @monospace-font-family !important;
+      font-size: @code-font-size !important;
+      max-height: 700px !important;
+      height: 100% !important;
+      line-height: 120% !important;
+
+      &.small {
+        font-size: @code-font-size-small;
+        line-height: 1.2;
+      }
+    }
+  }
+}
+
+img {
+  border-right-color: white !important;
+  border-left-color: white !important;
+  border-top-color: white !important;
+  border-bottom-color: white !important;
+  box-shadow: none !important;
+}
+
