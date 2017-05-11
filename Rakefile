@@ -61,6 +61,7 @@ end
 
 file OUTPUT_SLIDES => [:css, :js, :images, :svg] + HTML_SOURCES do
   puts "#{PRESO_DIR}/presentation.html => #{OUTPUT_DIR}/index.html"
+
   inc = Includer.new("#{PRESO_DIR}/presentation.html",
                      include_pattern: '^\s*%include\s"([^"]+)',
                      allow_glob: true)

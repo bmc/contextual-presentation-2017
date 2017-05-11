@@ -5,14 +5,17 @@
 
 // Variables
 
-@code-font-size: 54px;
+@code-font-size: 40px;
 @code-font-size-small: 14px;
+//@code-background: #1d1f21;
+@code-background: black;
 @font-size: 78px;
 @footer-font-size: 20px;
 @font-weight: 300;
-@font-family: "Source Sans Pro", sans-serif;
-@header-font-family: "Newslab", serif;
+@font-family: "Open Sans", sans-serif;
+@header-font-family: "Open Sans", sans-serif;
 @monospace-font-family: Consolas, Menlo, monospace;
+@element-margin-top: 1em;
 
 // Coupled to presentation.js
 // -----------------------------
@@ -31,6 +34,12 @@
   }
 }
 
+.show-footer {
+  #footer {
+    display: block !important;
+  }
+}
+
 .no-slide-number {
   .slide-number {
     display: none !important;
@@ -39,26 +48,25 @@
 
 html {
 
-
   &.title-slide {
-    .no-footer;
+    .show-footer;
     .no-slide-number;
 
     section {
       .title {
-        background-color: rbga(255, 255, 255, 60%) !important;
+        //background-color: rbga(255, 255, 255, 60%) !important;
         padding: 30px;
         text-align: center;
 
         h1, h2, h3 {
-          color: white !important;
+          //color: white !important;
           vertical-align: bottom;
           text-align: center !important;
           font-weight: normal !important;
         }
 
         p {
-          color: white !important;
+          //color: white !important;
           padding-top: 50px;
           text-align: center;
         }
@@ -90,6 +98,10 @@ body {
     left: 0;
     top: 0;
   }
+}
+
+.ardentex-logo {
+  width: 75px;
 }
 
 .speaker-controls-notes {
@@ -190,6 +202,7 @@ img {
 p {
   text-align: left;
   font-size: @font-size !important;
+  margin-top: @element-margin-top !important;
 
   &.attribution {
     font-size: @font-size * 0.5 !important;
@@ -206,6 +219,7 @@ p {
 }
 
 ul {
+  margin-top: @element-margin-top !important;
   margin-left: 20px !important;
 
   li {
@@ -277,30 +291,32 @@ blockquote {
   color: red !important;
 }
 
-div.code {
-  margin-top: 60px !important;
-  margin-bottom: 60px !important;
-}
-
 .reveal {
   pre {
-    border: 1px solid transparent !important;
-    //background-color: #3f3f3f;
+    white-space: pre !important;
+    margin-top: 60px !important;
+    margin-bottom: 60px !important;
+    //border: 1px solid #aaaaaa !important;
+    //border-radius: 15px 15px 15px 15px;
     width: 100% !important;
     height: auto !important;
     box-shadow: 0 0 0 0 !important;
-    background-color: #1d1f21;
+    background-color: @code-background;
+
+    &.no-border {
+      border: none !important;
+    }
 
     code {
-      padding-left: 30px !important;
-      padding-right: 30px !important;
-      padding-bottom: 0 !important;
-      padding-top: 0 !important;
+      padding-left: 15px !important;
+      padding-right: 15px !important;
+      white-space: pre !important;
       font-family: @monospace-font-family !important;
       font-size: @code-font-size !important;
-      max-height: 700px !important;
+      max-height: 1000px !important;
       height: 100% !important;
       line-height: 120% !important;
+      background-color: @code-background;
 
       &.small {
         font-size: @code-font-size-small;

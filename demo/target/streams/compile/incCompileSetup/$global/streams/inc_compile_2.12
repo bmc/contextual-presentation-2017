@@ -1,0 +1,547 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+28 items
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexCompileTime$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexCompileTime$RegexParser$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexCompileTime$RegexStringContext.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexCompileTime.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexRuntimeOnly$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexRuntimeOnly$RegexRuntimeOnly$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexRuntimeOnly$RegexRuntimeOnly.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexRuntimeOnly.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$InString$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$Thing$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$Thing.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$ThingContext.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$ThingInterpolator$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$ThingInterpolator.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$ThingStringContext.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$InDoubleQuotes$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$InSingleQuotes$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$InUnquotedParam$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$NewParam$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$Process$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$Process.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$ShellContext.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$ShellInterpolator$.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$ShellStringContext.class
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell.class
+binary dependencies:
+11 items
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> /Users/bmc/.ivy2/cache/com.propensive/contextual_2.12/jars/contextual_2.12-1.0.0.jar
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> /Users/bmc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> /Users/bmc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Users/bmc/.ivy2/cache/com.propensive/contextual_2.12/jars/contextual_2.12-1.0.0.jar
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> /Users/bmc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/.ivy2/cache/com.propensive/contextual_2.12/jars/contextual_2.12-1.0.0.jar
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> /Users/bmc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+28 items
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> com.ardentex.contextual.RegexCompileTime
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> com.ardentex.contextual.RegexCompileTime$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> com.ardentex.contextual.RegexCompileTime$RegexParser$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> com.ardentex.contextual.RegexCompileTime$RegexStringContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> com.ardentex.contextual.RegexRuntimeOnly
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> com.ardentex.contextual.RegexRuntimeOnly$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> com.ardentex.contextual.RegexRuntimeOnly$RegexRuntimeOnly
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> com.ardentex.contextual.RegexRuntimeOnly$RegexRuntimeOnly$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> com.ardentex.contextual.thing
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> com.ardentex.contextual.thing$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> com.ardentex.contextual.thing$InString$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> com.ardentex.contextual.thing$Thing
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> com.ardentex.contextual.thing$Thing$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> com.ardentex.contextual.thing$ThingContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> com.ardentex.contextual.thing$ThingInterpolator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> com.ardentex.contextual.thing$ThingInterpolator$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> com.ardentex.contextual.thing$ThingStringContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com.ardentex.contextual.shell
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com.ardentex.contextual.shell$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com.ardentex.contextual.shell$InDoubleQuotes$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com.ardentex.contextual.shell$InSingleQuotes$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com.ardentex.contextual.shell$InUnquotedParam$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com.ardentex.contextual.shell$NewParam$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com.ardentex.contextual.shell$Process
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com.ardentex.contextual.shell$Process$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com.ardentex.contextual.shell$ShellContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com.ardentex.contextual.shell$ShellInterpolator$
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com.ardentex.contextual.shell$ShellStringContext
+used names:
+350 items
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> -
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> <init>
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> <repeated>
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Any
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> AnyRef
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Array
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> ArrayOps
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Boolean
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> ContextType
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Function1
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Hole
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Int
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Interpolator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Literal
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> MatchError
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Nil
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Nothing
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Object
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> PatternSyntaxException
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Predef
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Prefix
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Regex
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> RegexCompileTime
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> RegexParser
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> RegexStringContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> RuntimeInterpolation
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> RuntimePart
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Seq
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> StaticInterpolation
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> StaticPart
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> String
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> StringContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> T
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> T0
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> U
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> Unit
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> abort
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> apply
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> ardentex
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> asInstanceOf
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> collection
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> com
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> contextual
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> error
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> foreach
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> getIndex
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> getMessage
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> head
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> immutable
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> interpolation
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> isInstanceOf
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> java
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> matching
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> message
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> mkString
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> ofRef
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> p
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> package
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> parts
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> refArrayOps
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> regex
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> sc
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> scala
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> split
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> string
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> util
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> $this
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> &&
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> +
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> <init>
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> <repeated>
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> ==
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> >=
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> A
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> A1
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Any
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> AnyRef
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> AnyVal
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> B
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Boolean
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> CanBuildFrom
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Coll
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Function1
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> GenIterable
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Int
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Iterator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> MatchError
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Nothing
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Object
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Predef
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Regex
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> RegexRuntimeOnly
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Seq
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> String
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> StringContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> StringOps
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> T0
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> That
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> Tuple2
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> _1
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> _2
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> _root_
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> ardentex
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> args
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> asInstanceOf
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> augmentString
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> canBuildFrom
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> collection
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> com
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> combined
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> contextual
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> isInstanceOf
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> iterator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> length
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> map
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> matching
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> mkString
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> ne
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> padTo
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> parts
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> prefix
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> r
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> regex$extension
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> sc
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> scala
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> size
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> strings
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> substitutions
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> toSeq
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> toString
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> util
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> value
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> zip
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> &&
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> <init>
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> <repeated>
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> ==
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> A
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> AbstractFunction1
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> After
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Any
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> AnyRef
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> B
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Before
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Boolean
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> C
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> CanBuildFrom
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Case
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Coll
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Context
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> ContextPair
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> ContextType
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Embedder
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Embedding
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Function1
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> InString
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> IndexOutOfBoundsException
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Input
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Int
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Interpolator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Iterator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> None
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Nothing
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Object
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Option
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Predef
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Prefix
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Product
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> RuntimeInterpolation
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> RuntimePart
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> ScalaRunTime
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Seq
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Serializable
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Some
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> StaticInterpolation
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> StaticPart
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> String
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> StringContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> T
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> T0
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> That
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Thing
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> ThingContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> ThingInterpolator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> ThingStringContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Tuple2
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> Value
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> _hashCode
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> _root_
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> _toString
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> apply
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> ardentex
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> asInstanceOf
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> canBuildFrom
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> cases
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> collection
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> com
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> contextual
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> embed
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> embedT
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> eq
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> implicitConversions
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> interpolation
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> isInstanceOf
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> language
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> map
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> mkString
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> o
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> package
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> parts
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> runtime
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> s
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> sc
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> scala
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> thing
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> toString
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> typedProductIterator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> ||
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> &&
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> +
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> :+
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ::
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> <byname>
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> <init>
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> <refinement>
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> <repeated>
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ==
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> >
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> A
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> AbstractFunction1
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> After
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Any
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> AnyRef
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> B
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Before
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Boolean
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> CanBuildFrom
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Case
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Char
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Coll
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Context
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ContextPair
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ContextType
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Embedder
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Embedding
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Function1
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Function2
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Hole
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> InDoubleQuotes
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> InSingleQuotes
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> InUnquotedParam
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> IndexOutOfBoundsException
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Input
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Int
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Interpolator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Iterator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> List
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Literal
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Map
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> MatchError
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> NewParam
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Nil
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> None
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Nothing
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Object
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Option
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Predef
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Prefix
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Process
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Product
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> RuntimeInterpolation
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> RuntimePart
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ScalaRunTime
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Seq
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> SeqLike
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Serializable
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ShellContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ShellInterpolator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ShellStringContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Some
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> StaticInterpolation
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> StaticPart
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> String
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> StringContext
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> StringOps
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> T
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> T0
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> T1
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> T2
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> That
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Tuple2
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> Value
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> _1
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> _2
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> _hashCode
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> _root_
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> abort
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> apply
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ardentex
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> args
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> asInstanceOf
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> augmentString
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> canBuildFrom
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ch
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> collection
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> com
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> command
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> contexts
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> contextual
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> cur
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> embed
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> embedStrings
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> eq
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> filter
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> finalState
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> foldLeft
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> get
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> getOrElse
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> hole
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> immutable
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> interpolation
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> isEmpty
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> isInstanceOf
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> last
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> length
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> lit
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> mkString
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ne
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> newState
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> package
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> params
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> parseLiteral
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> parts
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> replaceAll
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> rest
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> runtime
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> s
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> sc
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> scala
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> sh
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> shell
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> state
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> string
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> toString
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> trim
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> typedProductIterator
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> unapply
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> unary_!
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> unchecked
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> ||
+product stamps:
+28 items
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexCompileTime$.class -> lastModified(1494534359000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexCompileTime$RegexParser$.class -> lastModified(1494534359000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexCompileTime$RegexStringContext.class -> lastModified(1494534359000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexCompileTime.class -> lastModified(1494534359000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexRuntimeOnly$.class -> lastModified(1494534159000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexRuntimeOnly$RegexRuntimeOnly$.class -> lastModified(1494534159000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexRuntimeOnly$RegexRuntimeOnly.class -> lastModified(1494534159000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/RegexRuntimeOnly.class -> lastModified(1494534159000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$.class -> lastModified(1494538174000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$InDoubleQuotes$.class -> lastModified(1494538174000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$InSingleQuotes$.class -> lastModified(1494538174000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$InUnquotedParam$.class -> lastModified(1494538174000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$NewParam$.class -> lastModified(1494538174000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$Process$.class -> lastModified(1494538174000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$Process.class -> lastModified(1494538174000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$ShellContext.class -> lastModified(1494538174000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$ShellInterpolator$.class -> lastModified(1494538174000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell$ShellStringContext.class -> lastModified(1494538174000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/shell.class -> lastModified(1494538174000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$.class -> lastModified(1494537872000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$InString$.class -> lastModified(1494537872000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$Thing$.class -> lastModified(1494537872000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$Thing.class -> lastModified(1494537872000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$ThingContext.class -> lastModified(1494537872000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$ThingInterpolator$.class -> lastModified(1494537872000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$ThingInterpolator.class -> lastModified(1494537872000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing$ThingStringContext.class -> lastModified(1494537872000)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/target/scala-2.12/classes/com/ardentex/contextual/thing.class -> lastModified(1494537872000)
+source stamps:
+4 items
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> hash(bce1e657b3469e1fdb938b66e6bfe84f969c54fb)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> hash(b62c116fca69f2e6b8db2f936e7b0200418250c8)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> hash(a836b727fbed65964dee0a1ba20c352793002e79)
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> hash(4f32e4f74d8d999ba87ca792f1080159f7cd82fc)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1474584629000)
+/Users/bmc/.ivy2/cache/com.propensive/contextual_2.12/jars/contextual_2.12-1.0.0.jar -> lastModified(1483036482000)
+/Users/bmc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/bmc/.ivy2/cache/com.propensive/contextual_2.12/jars/contextual_2.12-1.0.0.jar -> contextual.Context
+/Users/bmc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.Serializable
+internal apis:
+4 items
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCwSMoQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBA0DOidAASUmVnZXhTdHJpbmdDb250ZXh0dXEAfgAJAAAARHNxAH4AC8pUZeJ0AAZub3RpZnlzcQB+AAtRcdbzdAAHdW5hcHBseXNxAH4AC+DhNzh0AAVyZWdleHNxAH4AC7UXtWF0AAtSZWdleFBhcnNlcnNxAH4AC4PIVRF0AAdjdXJyaWVkc3EAfgAL9FAIo3QAFFJ1bnRpbWVJbnRlcnBvbGF0aW9uc3EAfgALJbQH7HQABHdhaXRzcQB+AAsSXyfsdAAOY29weSRkZWZhdWx0JDJzcQB+AAs+/32adAANJGFzSW5zdGFuY2VPZnNxAH4AC6Pp9cp0AAR3YXJuc3EAfgALJZ4y1XQADWNvbnRleHR1YWxpemVzcQB+AAt8wqsddAAMcHJvZHVjdEFyaXR5c3EAfgALw6Zbq3QABmVxdWFsc3NxAH4ACxMhHZ50AAxhc0luc3RhbmNlT2ZzcQB+AAtH1VeOdAAFaG9sZXNzcQB+AAtINVn+dAAIZXZhbHVhdGVzcQB+AAu6Gn0pdAATU3RhdGljSW50ZXJwb2xhdGlvbnNxAH4AC72WwQd0AAxzeW5jaHJvbml6ZWRzcQB+AAuKoTa6dAANJGlzSW5zdGFuY2VPZnNxAH4ACzQfTgZ0AAlldmFsdWF0b3JzcQB+AAtnNA4EdAAHTGl0ZXJhbHNxAH4ACxAb5A10AARIb2xlc3EAfgALBcZvR3QABnR1cGxlZHNxAH4AC0Dv0+d0AAhjYW5FcXVhbHNxAH4AC1uUh010AAZzdHJpbmdzcQB+AAsvF3ZHdAAEUGFydHNxAH4AC5UK46V0AAVlbWJlZHNxAH4AC2Zm5kl0AA1wcm9kdWN0UHJlZml4c3EAfgALYWoXx3QACW5vdGlmeUFsbHNxAH4AC1I6FTd0AAxtYWNyb0NvbnRleHRzcQB+AAsEayHedAAMaXNJbnN0YW5jZU9mc3EAfgALcImXLHQADFN1YnN0aXR1dGlvbnNxAH4AC+qzKKF0AAY8aW5pdD5zcQB+AAunkgzcdAAFSW5wdXRzcQB+AAsQjmXqdAAFYXBwbHlzcQB+AAvc/jp7dAAFZXJyb3JzcQB+AAtRzUGedAANc3Vic3RpdHV0aW9uc3NxAH4AC7yN2pR0AAI9PXNxAH4ACzhXDCF0AAZPdXRwdXRzcQB+AAswSLRbdAAFY2xvbmVzcQB+AAv7tF5JdAAGJGluaXQkc3EAfgAL8H+FjXQACGxpdGVyYWxzc3EAfgAL/SGqx3QABGNvcHlzcQB+AAstkAz5dAAIdG9TdHJpbmdzcQB+AAvUo88qdAACIT1zcQB+AAu7YNU6dAAIdW5pdmVyc2VzcQB+AAsESWPXdAALQ29udGV4dFR5cGVzcQB+AAtSCKUOdAAIZ2V0Q2xhc3NzcQB+AAv8CHd1dAAMbGl0ZXJhbFRyZWVzc3EAfgALZbx2PnQACWhvbGVUcmVlc3NxAH4AC5Ep8ph0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC+FGmSF0AAJuZXNxAH4AC/2neMV0AAV2YWx1ZXNxAH4AC7hP0mF0ABBpbnRlcnBvbGF0b3JUZXJtc3EAfgALE/GIi3QAClN0YXRpY1BhcnRzcQB+AAs/UAwWdAAFaW5wdXRzcQB+AAtANzvOdAACZXFzcQB+AAtM6WNGdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALGDZVJ3QACUVtYmVkZGluZ3NxAH4AC5zjTaN0AAIjI3NxAH4AC0psbP10AAhmaW5hbGl6ZXNxAH4ACz3D4Ld0AAVpbmRleHNxAH4ACw/1SJR0AA5wcm9kdWN0RWxlbWVudHNxAH4ACx4JCyV0AAhoYXNoQ29kZXNxAH4AC/373e10AAVhYm9ydHNxAH4ACzyV+wR0ABBSZWdleENvbXBpbGVUaW1lc3EAfgALk706pHQAC1J1bnRpbWVQYXJ0c3EAfgALY42QY3QABXBhcnRzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AoXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAKGNvbS5hcmRlbnRleC5jb250ZXh0dWFsLlJlZ2V4Q29tcGlsZVRpbWV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AoUwACWluaGVyaXRlZHEAfgChTAAHcGFyZW50c3EAfgCheHEAfgC+c3EAfgC5dXEAfgCcAAAAAHNxAH4AuXVxAH4AnAAAAABzcQB+ALl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AL10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AL1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ANZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ANdzcQB+AMp0AANBbnlzcQB+AM5zcQB+ANF1cQB+ANQAAAACc3EAfgDWdAAFc2NhbGFxAH4A3XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQADGNvbS5hcmRlbnRleHNxAH4A53QAF2NvbS5hcmRlbnRleC5jb250ZXh0dWFsc3EAfgDndAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFb+TCIoXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AGAvVXNlcnMvYm1jL3NyYy9teXN0dWZmL3ByZXNlbnRhdGlvbnMvY29udGV4dHVhbC1wcmVzZW50YXRpb24tMjAxNy9kZW1vL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS84eZXs0aeH9uTi2bmv+hPlpxU+w==
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwWdDoEQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCNdMvldAAQUmVnZXhSdW50aW1lT25seXVxAH4ACQAAABpzcQB+AAshScoddAAGbm90aWZ5c3EAfgALpMviiXQABXJlZ2V4c3EAfgAL7DVhcnQABHdhaXRzcQB+AAt7sJgEdAANJGFzSW5zdGFuY2VPZnNxAH4ACwVFxCx0AAZlcXVhbHNzcQB+AAsoAck3dAAMYXNJbnN0YW5jZU9mc3EAfgALWRUGbXQADHN5bmNocm9uaXplZHNxAH4AC54zEc50AAJzY3NxAH4ACwQ86Xl0AA0kaXNJbnN0YW5jZU9mc3EAfgALb/J/znQAD3JlZ2V4JGV4dGVuc2lvbnNxAH4AC53nfV50AAlub3RpZnlBbGxzcQB+AAsTBoCldAAMaXNJbnN0YW5jZU9mc3EAfgALHSFlgHQABjxpbml0PnNxAH4AC3S5lId0AAI9PXNxAH4AC1PTYMp0AAVjbG9uZXNxAH4AC6XGKhp0ABBlcXVhbHMkZXh0ZW5zaW9uc3EAfgAL2HOSTXQAEFJlZ2V4UnVudGltZU9ubHlzcQB+AAuPE49FdAAIdG9TdHJpbmdzcQB+AAu6rfO8dAACIT1zcQB+AAuogGbZdAAIZ2V0Q2xhc3NzcQB+AAtT4F1TdAACbmVzcQB+AAuAgC9KdAASaGFzaENvZGUkZXh0ZW5zaW9uc3EAfgALi9Irs3QAAmVxc3EAfgALgXMfmHQAAiMjc3EAfgAL/peU+HQACGZpbmFsaXplc3EAfgAL3FqHKnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAKGNvbS5hcmRlbnRleC5jb250ZXh0dWFsLlJlZ2V4UnVudGltZU9ubHl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBqc3EAfgBldXEAfgBIAAAAAHNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AINzcQB+AHZ0AANBbnlzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCdAAFc2NhbGFxAH4AiXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQADGNvbS5hcmRlbnRleHNxAH4Ak3QAF2NvbS5hcmRlbnRleC5jb250ZXh0dWFsc3EAfgCTdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFb+S1spHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AGAvVXNlcnMvYm1jL3NyYy9teXN0dWZmL3ByZXNlbnRhdGlvbnMvY29udGV4dHVhbC1wcmVzZW50YXRpb24tMjAxNy9kZW1vL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS2LBFvymny5rjbL5NuewIAQYJQyA==
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwH5WwHAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCRKZ2kdAASVGhpbmdTdHJpbmdDb250ZXh0c3EAfgAL5LIKhXQADWVtYmVkQW55dGhpbmd1cQB+AAkAAABJc3EAfgALLUicjnQABVRoaW5nc3EAfgALY1cVOHQABm5vdGlmeXNxAH4AC7D0j/J0AAd1bmFwcGx5c3EAfgALiB9UrXQAAXNzcQB+AAucSFL3dAAHY3VycmllZHNxAH4AC60FyKR0ABRSdW50aW1lSW50ZXJwb2xhdGlvbnNxAH4AC951ICF0AAR3YWl0c3EAfgALbjjisnQACEluU3RyaW5nc3EAfgALjL6C+nQADmNvcHkkZGVmYXVsdCQyc3EAfgALdJbapnQADSRhc0luc3RhbmNlT2ZzcQB+AAvAm1l1dAAEd2FybnNxAH4AC8bYU/F0AA1jb250ZXh0dWFsaXplc3EAfgALqC8frnQAB2NvbXBvc2VzcQB+AAtgANsIdAAMcHJvZHVjdEFyaXR5c3EAfgAL/wyTenQABmVxdWFsc3NxAH4ACz4bw1x0AAxhc0luc3RhbmNlT2ZzcQB+AAum1Os7dAAFaG9sZXNzcQB+AAsBvTqIdAAIZXZhbHVhdGVzcQB+AAsH1EqIdAATU3RhdGljSW50ZXJwb2xhdGlvbnNxAH4ACyyZahh0AAxzeW5jaHJvbml6ZWRzcQB+AAt5jgYedAANJGlzSW5zdGFuY2VPZnNxAH4AC9vmqEx0AAlldmFsdWF0b3JzcQB+AAuxK/++dAAHTGl0ZXJhbHNxAH4AC2dwwrd0AARIb2xlc3EAfgALFUWdE3QAB2FuZFRoZW5zcQB+AAuFkVQZdAAGdHVwbGVkc3EAfgALqwNj43QABXRoaW5nc3EAfgALMJoFGHQACGNhbkVxdWFsc3EAfgALMq7iwnQABnN0cmluZ3NxAH4AC4hXn+Z0AARQYXJ0c3EAfgALh2jzH3QABWVtYmVkc3EAfgALWMrAHXQADXByb2R1Y3RQcmVmaXhzcQB+AAudwGyPdAAMVGhpbmdDb250ZXh0c3EAfgAL/dcZWnQACW5vdGlmeUFsbHNxAH4AC0/PXIp0AAxtYWNyb0NvbnRleHRzcQB+AAuEl6n8dAAMaXNJbnN0YW5jZU9mc3EAfgAL3BnvSHQADFN1YnN0aXR1dGlvbnNxAH4AC0F1eKl0AAY8aW5pdD5zcQB+AAvZUrCVdAAFSW5wdXRzcQB+AAuyCtGBdAAFYXBwbHlzcQB+AAsKr4fSdAAFZXJyb3JzcQB+AAueU/UudAANc3Vic3RpdHV0aW9uc3NxAH4ACwVc6oJ0AAI9PXNxAH4ACzLEXA10AAZPdXRwdXRzcQB+AAuiVe1IdAAFY2xvbmVzcQB+AAvXVVn/dAAGJGluaXQkc3EAfgALtnV02HQACGxpdGVyYWxzc3EAfgALk3hbvnQABGNvcHlzcQB+AAscybcfdAAIdG9TdHJpbmdzcQB+AAu681vIdAACIT1zcQB+AAtI+LrSdAAIdW5pdmVyc2VzcQB+AAsaBa9ZdAARVGhpbmdJbnRlcnBvbGF0b3JzcQB+AAtDVk2GdAALQ29udGV4dFR5cGVzcQB+AAt+mjzwdAAIZ2V0Q2xhc3NzcQB+AAs7S+hPdAAMbGl0ZXJhbFRyZWVzc3EAfgALM0LggHQACWhvbGVUcmVlc3NxAH4ACzMyKtt0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC10aF8h0AAJuZXNxAH4AC0eG/+p0AAV2YWx1ZXNxAH4ACwBW7rR0ABBpbnRlcnBvbGF0b3JUZXJtc3EAfgAL81hYo3QAClN0YXRpY1BhcnRzcQB+AAspgmlidAAFaW5wdXRzcQB+AAuTRKaxdAACZXFzcQB+AAuaAyCmdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALg0uLS3QACUVtYmVkZGluZ3NxAH4AC1aCAzx0AAIjI3NxAH4AC/ofZjx0AAhmaW5hbGl6ZXNxAH4AC012WdJ0AAVpbmRleHNxAH4AC7Px9IZ0AA5wcm9kdWN0RWxlbWVudHNxAH4AC/cD4NJ0AAhoYXNoQ29kZXNxAH4AC3oaK8B0AAVhYm9ydHNxAH4AC6OOQXd0AAtSdW50aW1lUGFydHNxAH4AC28mEQp0AAVwYXJ0c3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AK14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB1jb20uYXJkZW50ZXguY29udGV4dHVhbC50aGluZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AxXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCtTAAJaW5oZXJpdGVkcQB+AK1MAAdwYXJlbnRzcQB+AK14cQB+AMpzcQB+AMV1cQB+AKgAAAAAc3EAfgDFdXEAfgCoAAAAAHNxAH4AxXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AyXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AyXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A4nQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A43NxAH4A1nQAA0FueXNxAH4A2nNxAH4A3XVxAH4A4AAAAAJzcQB+AOJ0AAVzY2FsYXEAfgDpdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAMY29tLmFyZGVudGV4c3EAfgDzdAAXY29tLmFyZGVudGV4LmNvbnRleHR1YWxzcQB+APN0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVv5ZhUkdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKg2tyf77WWWTe4KG6IMNSeTAC55
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgq101AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDqGhiWdAAMZW1iZWRTdHJpbmdzc3EAfgAL9ulXX3QAElNoZWxsU3RyaW5nQ29udGV4dHVxAH4ACQAAAE5zcQB+AAtdy0K/dAAGbm90aWZ5c3EAfgALb61cYXQAB3VuYXBwbHlzcQB+AAsFgr8pdAAKdW5hcHBseVNlcXNxAH4AC3v48Al0AAdjdXJyaWVkc3EAfgALm06JZnQADkluRG91YmxlUXVvdGVzc3EAfgALbdcw53QAFFJ1bnRpbWVJbnRlcnBvbGF0aW9uc3EAfgAL1/ETT3QABHdhaXRzcQB+AAtdrDPHdAAPSW5VbnF1b3RlZFBhcmFtc3EAfgALBuWUDnQACE5ld1BhcmFtc3EAfgALPISsLXQADmNvcHkkZGVmYXVsdCQyc3EAfgALhlJZ0HQADSRhc0luc3RhbmNlT2ZzcQB+AAvCgJC0dAAEd2FybnNxAH4AC/r2Im50AA1jb250ZXh0dWFsaXplc3EAfgALJwOMdnQABXNoZWxsc3EAfgALnvPsWnQAB2NvbXBvc2VzcQB+AAszXK8OdAAMcHJvZHVjdEFyaXR5c3EAfgALw/9xbXQABmVxdWFsc3NxAH4AC2+EjJl0AAxhc0luc3RhbmNlT2ZzcQB+AAuC8+IodAAFaG9sZXNzcQB+AAsxouDYdAAIZXZhbHVhdGVzcQB+AAvwtmrGdAATU3RhdGljSW50ZXJwb2xhdGlvbnNxAH4AC9+XXRp0AAxzeW5jaHJvbml6ZWRzcQB+AAs4ibAbdAANJGlzSW5zdGFuY2VPZnNxAH4AC9bypl90AAlldmFsdWF0b3JzcQB+AAtQsq0XdAAHTGl0ZXJhbHNxAH4AC5zrc/d0AARIb2xlc3EAfgALDPzxanQAB2FuZFRoZW5zcQB+AAs7pitcdAAGdHVwbGVkc3EAfgALb7y+pXQACGNhbkVxdWFsc3EAfgALWj4MInQABnN0cmluZ3NxAH4AC7H7UJx0AARQYXJ0c3EAfgALs1jKA3QABWVtYmVkc3EAfgAL3sprPXQADXByb2R1Y3RQcmVmaXhzcQB+AAsIM/BUdAAJbm90aWZ5QWxsc3EAfgALCrojd3QADG1hY3JvQ29udGV4dHNxAH4ACwc30Kt0AA5JblNpbmdsZVF1b3Rlc3NxAH4AC+CvVNR0AAxpc0luc3RhbmNlT2ZzcQB+AAvAXyZZdAAMU3Vic3RpdHV0aW9uc3EAfgALoRxA2XQABjxpbml0PnNxAH4ACzboQaB0AAVJbnB1dHNxAH4AC6g2/AB0AAVhcHBseXNxAH4AC+3Z07h0AAVlcnJvcnNxAH4AC+ke1V90ABFTaGVsbEludGVycG9sYXRvcnNxAH4AC7dfupJ0AA1zdWJzdGl0dXRpb25zc3EAfgALhUMCYXQAAj09c3EAfgALVkmY4nQABk91dHB1dHNxAH4ACxMzCIh0AAVjbG9uZXNxAH4AC6mX6i10AAYkaW5pdCRzcQB+AAuVj34fdAAIbGl0ZXJhbHNzcQB+AAsh82FPdAAEY29weXNxAH4ACzuEtk90AAh0b1N0cmluZ3NxAH4AC/XAOA50AARhcmdzc3EAfgALelFf93QAAiE9c3EAfgALFcJmWXQACHVuaXZlcnNlc3EAfgALc5nMBXQAC0NvbnRleHRUeXBlc3EAfgAL86556XQACGdldENsYXNzc3EAfgALfTlkDnQADGxpdGVyYWxUcmVlc3NxAH4AC7/d/0R0AAlob2xlVHJlZXNzcQB+AAsl8YFwdAAOY29weSRkZWZhdWx0JDFzcQB+AAuz9jMOdAACbmVzcQB+AAtMYpSUdAAMU2hlbGxDb250ZXh0c3EAfgALMtPl1HQAB1Byb2Nlc3NzcQB+AAtCJwx/dAAFdmFsdWVzcQB+AAtteRchdAAQaW50ZXJwb2xhdG9yVGVybXNxAH4ACwLybOF0AApTdGF0aWNQYXJ0c3EAfgAL0i50vXQABWlucHV0c3EAfgALer85xnQAAmVxc3EAfgAL7gS6EnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC5+E5gF0AAlFbWJlZGRpbmdzcQB+AAsohQledAACIyNzcQB+AAuaQWFXdAAIZmluYWxpemVzcQB+AAvO3KyadAAFaW5kZXhzcQB+AAtxjWN4dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAunHF4edAAIaGFzaENvZGVzcQB+AAtXaFJydAAFYWJvcnRzcQB+AAuz5FbZdAALUnVudGltZVBhcnRzcQB+AAv/SLpadAAFcGFydHNzcQB+AAslxqUUdAACc2hzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgC3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAdY29tLmFyZGVudGV4LmNvbnRleHR1YWwuc2hlbGx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AM9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4At0wACWluaGVyaXRlZHEAfgC3TAAHcGFyZW50c3EAfgC3eHEAfgDUc3EAfgDPdXEAfgCyAAAAAHNxAH4Az3VxAH4AsgAAAABzcQB+AM91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ANN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ANNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AOx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AO1zcQB+AOB0AANBbnlzcQB+AORzcQB+AOd1cQB+AOoAAAACc3EAfgDsdAAFc2NhbGFxAH4A83VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQADGNvbS5hcmRlbnRleHNxAH4A/XQAF2NvbS5hcmRlbnRleC5jb250ZXh0dWFsc3EAfgD9dAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFb+Wq83XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AGAvVXNlcnMvYm1jL3NyYy9teXN0dWZmL3ByZXNlbnRhdGlvbnMvY29udGV4dHVhbC1wcmVzZW50YXRpb24tMjAxNy9kZW1vL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRPMuT3TY2Zm6h8p5LxCAFZ982C/A==
+external apis:
+0 items
+source infos:
+4 items
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexCompileTime.scala -> 
+AAAAAAAAAAA=
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/RegexRuntimeOnly.scala -> 
+AAAAAAAAAAA=
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/Thing.scala -> 
+AAAAAAAAAAA=
+/Users/bmc/src/mystuff/presentations/contextual-presentation-2017/demo/src/main/scala/com/ardentex/contextual/sh.scala -> 
+AAAAAAAAAAA=
+compilations:
+16 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/i/frd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/jAg4t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/jDaPN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/jD2P91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/jRaRN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/jVS/R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/jVgCN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/jVszF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/jV/+Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/jWzdh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/ktbKR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/kuTGB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/kwiKF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/lj+P11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/lmFSR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW/lqvN11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9ibWMvc3JjL215c3R1ZmYvcHJlc2VudGF0aW9ucy9jb250ZXh0dWFsLXByZXNlbnRhdGlvbi0yMDE3L2RlbW8vdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=

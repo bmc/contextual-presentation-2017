@@ -1,7 +1,7 @@
 # PHASE Contextual Presentation
 
 This repo contains the source for my 2017 [PHASE](https://www.scala-phase.org)
-talk on Jon Pretty's [Contextual](http://contextual.io) library.
+talk on Jon Pretty's [Contextual](http://co.ntextu.al/) library.
 
 ## Preparing to build the slides
 

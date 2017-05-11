@@ -19,7 +19,7 @@ $(document).ready(function() {
     progress:     false,
     center:       false,
     history:      true,
-    transition:   'slide',
+    transition:   'fade',
     controls:     false,
     width:        2560, // Coupled to presentation.less
     height:       1600, // Coupled to presentation.less

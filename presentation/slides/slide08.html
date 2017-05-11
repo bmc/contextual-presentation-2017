@@ -1,0 +1,19 @@
+<section>
+  <h1>How do you get <i>compile-time</i> evaluation?</h1>
+
+  <p>
+    The previous example failed at runtime. How do you implement a string
+    interpolator that fails as compile time, the way the "f" interpolator
+    does?
+  </p>
+
+  <p class="fragment">
+    Short answer: Compiler macros.
+  </p>
+
+  <p class="fragment">
+    Macros can be quite complicated. They expose the compiler's AST, and
+    the macro writer is often required to manipulate the AST and perform
+    type-level programming.
+  </p>
+</section>

@@ -20,7 +20,7 @@
   "dependencies": {
     "highlightjs": "~9.1.0",
     "jquery": "~2.1.4",
-    "reveal.js": "~3.2.0",
+    "reveal.js": "~3.5.0",
     "lodash": "^4.6.0"
   }
 }

@@ -1,0 +1,28 @@
+<section>
+  <h1>What is a "string interpolator"?</h1>
+
+  <p>
+    You've seen them before. Some are built into Scala:
+  </p>
+
+  <p class="fragment">
+    Simple string interp:
+
+      <pre class="code fragment">
+        <code class="scala data-trim">
+          val age = 10
+          val name = "Jenna"
+          println(s"My name is $name, and I am $age years old.")
+        </code>
+      </pre>
+  </p>
+
+  <p class="fragment">
+    <code>printf</code>-style interp (checked at compile time!):
+    <pre class="code fragment">
+      <code class="scala data-trim">
+        println(f"My name is $name%20s, and I am $age%2d years old.")
+      </code>
+    </pre>
+  </p>
+</section>

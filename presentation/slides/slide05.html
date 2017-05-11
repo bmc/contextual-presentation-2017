@@ -1,0 +1,21 @@
+<section>
+  <h1>You can write your own</h1>
+
+  <p>
+    As noted at
+    <a href="http://docs.scala-lang.org/overviews/core/string-interp.html">
+      http://docs.scala-lang.org/overviews/core/string-interp.html
+    </a>,
+    whenever the compiler sees
+  </p>
+
+  <p><br/><code>id"something"</code><br/><br/></p>
+
+  <p>
+    it looks for an <code>id()</code> method on <code>StringContext</code>.
+    If such a method is found, the compiler parses the string into prefixes
+    and arguments, instantiating a <code>StringContext</code> with the
+    prefixes and passing the arguments into the <code>id()</code> method.
+  </p>
+
+</section>

@@ -1,0 +1,28 @@
+<section>
+  <h1>How does it work?</h1>
+
+  <p class="fragment">
+    Basic approach:
+  </p>
+
+  <ul>
+    <li class="fragment">
+      Add the necessary imports.
+    </li>
+    <li class="fragment">
+      Create an <i>object</i> that subclasses <code>Interpolator</code>.
+    </li>
+    <li class="fragment">
+      Implement the <code>contextualize()</code> method to provide any
+      compile-time checks you want.
+    </li>
+    <li class="fragment">
+      Implement the <code>evaluate()</code> method to provide the runtime
+      behavior
+    </li>
+    <li class="fragment">
+      Create an implicit class to add the appropriate interpolator method
+      to the Scala <code>StringContext</code> class.
+    </li>
+  </ul>
+</section>

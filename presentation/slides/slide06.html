@@ -1,0 +1,24 @@
+<section>
+  <h1>You can write your own</h1>
+
+  <p>What the hell does <i>that</i> mean?</p>
+
+  <p class="fragment">Suppose you code this:</p>
+
+  <pre class="code fragment">
+    <code class="scala data-trim">
+      json"{ name: $name, id:$id }"
+    </code>
+  </pre>
+
+  <p class="fragment">
+    The compiler converts that to:
+  </p>
+
+  <pre class="code fragment">
+    <code class="scala data-trim">
+      new StringContext("{name: ", " id: ", "}").json(name, id)
+    </code>
+  </pre>
+
+</section>
