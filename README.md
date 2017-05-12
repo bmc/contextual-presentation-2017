@@ -1,9 +1,20 @@
 # PHASE Contextual Presentation
 
 This repo contains the source for my 2017 [PHASE](https://www.scala-phase.org)
-talk on Jon Pretty's [Contextual](http://co.ntextu.al/) library.
+talk on Jon Pretty's [Contextual](http://co.ntextu.al/) library, including
+both [Reveal.js][] slides and demo code.
 
-## Preparing to build the slides
+## Code
+
+The demo code is in the `demo` subdirectory and can be built with
+[sbt](http://scala-sbt.org).
+
+## Slides
+
+The slides are written for Reveal.js, but the build process is a little
+complicated, because I'm using various add-ons.
+
+### Preparing to build the slides
 
 1. Install [NodeJS][] and `npm`.
 2. Install the [LESS][] preprocessor: `npm install -g less`
@@ -14,7 +25,7 @@ talk on Jon Pretty's [Contextual](http://co.ntextu.al/) library.
 6. Install Bundler: `gem install bundler`
 7. Use Bundler to install the required Ruby gems: `bundle install`
 
-## Building the Slides
+### Building the Slides
 
 Once you've successfully completed preparation, building the slide deck
 is as simple as:
@@ -24,12 +35,12 @@ is as simple as:
 Rake will build `dist/index.html`, a [Reveal.js][] slide show. Just
 open the file in your browser, and away you go.
 
-## Installing the slide show
+### Installing the slide show
 
 If you want to install the slide show somewhere (e.g., a web server), copy
 the _entire_ `dist` directory (presumably renaming it).
 
-## Making PDFs
+### Making PDFs
 
 To create PDF versions of the slides, open the HTML slides in Chrome or
 Chromium. Then, tack `?print-pdf` on the end of the URL, and print the result.
