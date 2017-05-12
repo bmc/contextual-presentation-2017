@@ -16,7 +16,7 @@ package com.ardentex.contextual
 
 // Copied from examples in contextual repo
 
-import contextual._
+import _root_.contextual._
 
 object shell {
 
@@ -39,7 +39,7 @@ object shell {
       val command = interpolation.parts.mkString
       val (_, params) = parseLiteral(NewParam, command)
       // Kill any empty strings
-      val args = params.filter { s => s.trim.length > 0}
+      val args = params.map(_.trim).filter(_.nonEmpty)
       Process(args: _*)
     }
 
@@ -91,6 +91,13 @@ object shell {
           (state, rest :+ s"$cur$ch")
       }
     }
+
+  implicit val embedInts = ShellInterpolator.embed[Int](
+    Case(NewParam, InUnquotedParam) { i => i.toString },
+    Case(InUnquotedParam, InUnquotedParam) { _.toString },
+    Case(InSingleQuotes, InSingleQuotes) { _.toString },
+    Case(InDoubleQuotes, InDoubleQuotes) { _.toString }
+  )
 
   implicit val embedStrings = ShellInterpolator.embed[String](
     Case(NewParam, InUnquotedParam) { s => '"'+s.replaceAll("\\\"", "\\\\\"")+'"' },
